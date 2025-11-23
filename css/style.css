@@ -131,14 +131,15 @@ nav {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 titulo.{
-    display: flex;
+    display: block;
     align-items: center;
     gap: 1rem;
 }
 
 .titulo-img {
     height: auto;
-    width: auto;
+    width: 80%; /*en proporción al ancho del contenedor */
+    margin:0auto;
     transition: var(--transition);
 }
 
