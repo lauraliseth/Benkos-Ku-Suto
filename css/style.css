@@ -137,7 +137,7 @@ titulo.{
 }
 
 .titulo-img {
-    height: autopx;
+    height: auto;
     width: auto;
     transition: var(--transition);
 }
