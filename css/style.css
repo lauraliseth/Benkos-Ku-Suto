@@ -130,16 +130,12 @@ nav {
     margin-bottom: 1rem;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
-titulo.{
-    display: block;
-    align-items: center;
-    gap: 1rem;
-}
 
 .titulo-img {
     height: auto;
-    width: 80%; /*en proporción al ancho del contenedor */
-    margin:0auto;
+    width:350px; /*en proporción al ancho del contenedor */
+    margin:0 auto;
+    display: block;
     transition: var(--transition);
 }
 
