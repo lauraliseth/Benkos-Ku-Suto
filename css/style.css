@@ -133,7 +133,7 @@ nav {
 
 .titulo-img {
     height: auto;
-    width:100px; /*en proporción al ancho del contenedor */
+    width: 350px; /*en proporción al ancho del contenedor */
     margin:0 auto;
     display: block;
     transition: var(--transition);
